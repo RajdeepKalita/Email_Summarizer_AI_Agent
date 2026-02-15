@@ -48,11 +48,11 @@ Features:
 
 ---
 
-## ⚙️ Configuration
+##      ⚙️ Configuration
 
-Open the script and update the following variables:
+ Open the script and update the following variables:
 
 
-EMAIL_USER = "your_email@gmail.com"
-EMAIL_PASS = "your_16_character_app_password"
-GEMINI_API_KEY = "your_google_ai_studio_api_key"
+  EMAIL_USER = "your_email@gmail.com"
+  EMAIL_PASS = "your_16_character_app_password"
+  GEMINI_API_KEY = "your_google_ai_studio_api_key"
