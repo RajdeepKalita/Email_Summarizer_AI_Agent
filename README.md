@@ -56,3 +56,34 @@ Features:
   EMAIL_USER = "your_email@gmail.com"
   EMAIL_PASS = "your_16_character_app_password"
   GEMINI_API_KEY = "your_google_ai_studio_api_key"
+
+
+  📸 Example Output
+
+  The agent produces a structured Markdown-style summary:
+
+  📬 Inbox Intelligence Brief
+
+  🔴 URGENT / ACTION REQUIRED
+  Anu (Crio.in): 📅 Deadline: 2 days left for the Scholarship application. Up to ₹1 lakh available.
+
+  🟡 FYI / UPDATES
+  Instahyre: Your profile was viewed by Oracle and MakeMyTrip.
+
+  🟢 NO ACTION / COMPLETED
+  Swiggy: Marketing promotion for weekend offers.
+
+
+  🤝 Contributing
+
+ Feel free to fork this project and enhance it!
+
+ Ideas for improvements:
+
+ ✉️ Add a ReplyTool to auto-draft email responses
+
+ 📅 Integrate with Google Calendar for availability checks
+
+ 📧 Add Outlook / Microsoft Graph API support
+
+ Pull requests are welcome!
